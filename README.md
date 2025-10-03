@@ -6,7 +6,7 @@
 <ul>
   <li>Design and implement <strong>trading and financial systems</strong></li>
   <li>Explore <strong>system design, algorithms, and distributed computing</strong></li>
-  <li>Develop <strong>high-performance Java applications</strong></li>
+  <li>Develop <strong>high-performance & ultra-low-latency Java applications</strong></li>
 </ul>
 
 <h3>🌱 Currently learning & exploring:</h3>
