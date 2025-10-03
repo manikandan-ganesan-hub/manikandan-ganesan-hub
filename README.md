@@ -23,7 +23,7 @@
   <li>Java-based projects and utilities</li>
   <li>Code experiments and demos</li>
   <li>Tools and snippets for <strong>ultra-low-latency trading systems</strong></li>
-  <li>Exploring AI and building intelligent agents to enhance automation and server capabilities</li>
+  <li>Experimenting with AI, ML, APIs, Agent, RAG, MCP and workflow automation.</li>
 </ul>
 
 <h3>🚀 Let’s connect:</h3>
