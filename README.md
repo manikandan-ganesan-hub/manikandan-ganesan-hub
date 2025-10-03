@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! You’ve reached my corner of GitHub</h2>
 
-<p>I'm <a href="https://www.linkedin.com/in/manikandan-ganesan-284a321b/">Manikandan Ganesan</a>, a passionate Java developer and investment banking technology professional with over 18 years of experience. I specialize in building high-performance, low-latency systems and creating scalable applications for the financial industry.</p>
+<p>I'm <a href="https://www.linkedin.com/in/manikandan-ganesan-284a321b/">Manikandan Ganesan</a>, a passionate Java developer and investment banking technology professional with over 18 years of experience. I specialize in building high-performance, low-latency systems and creating scalable distributed applications for the financial industry.</p>
 
 <h3>💻 What I do:</h3>
 <ul>
